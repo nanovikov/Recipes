@@ -1,6 +1,6 @@
 # Gazpacho
 
-Ingredients
+**Ingredients**
 
 * 3 large tomatoes
 * 3 persian cucumbers
@@ -11,11 +11,11 @@ Ingredients
 * 2 t paprika
 * 1/2 t salt
 * fresh pepper
-* OPTIONAL fresh parsley
-* OPTIONAL hot sauce
+* _**fresh parsley**_
+* _**hot sauce**_
 
 
-Instructions
+**Instructions**
 
 1. Blend everything. 
 2. Chill in refrigerator. 
