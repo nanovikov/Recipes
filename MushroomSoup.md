@@ -13,5 +13,6 @@
 **Instructions**
 
 1. Saute onion and mushrooms. 
-2. Add broth and simmer 10 minutes. 
-3. Blend
+2. Add broth and simmer 10 minutes.
+3. Remove spice bag. 
+4. Blend
