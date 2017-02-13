@@ -8,7 +8,7 @@
 * 2 c chicken broth
 * 1 t ground ginger (or 3/4 inch fresh ginger)
 * 1/2 t salt
-* 1 c low-fat milk
+* juice of 1/2 a lemon
 * freshly ground pepper
 
 **Instructions**
