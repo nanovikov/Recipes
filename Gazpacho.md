@@ -11,8 +11,8 @@ Ingredients
 * 2 t paprika
 * 1/2 t salt
 * fresh pepper
-* (fresh parsley)
-* (hot sauce)
+* OPTIONAL fresh parsley
+* OPTIONAL hot sauce
 
 
 Instructions
