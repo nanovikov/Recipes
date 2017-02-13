@@ -7,6 +7,7 @@
 * 2 T butter
 * 6 c of chicken broth
 * 2 t dried rosemary (in a spice bag)
+* 1 c low-fat milk
 * salt to taste
 * pepper to taste
 
@@ -16,3 +17,4 @@
 2. Add broth and simmer 10 minutes.
 3. Remove spice bag. 
 4. Blend.
+5. Add milk.
