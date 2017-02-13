@@ -11,8 +11,8 @@
 * 2 t paprika
 * 1/2 t salt
 * fresh pepper
-* _**fresh parsley**_
-* _**hot sauce**_
+* _fresh parsley_
+* _hot sauce_
 
 
 **Instructions**
