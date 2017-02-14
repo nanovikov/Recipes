@@ -1,4 +1,6 @@
 # Mushroom Stock
+_2h to assemble_
+_2h to cook_
 
 **Ingredients** 
 
