@@ -1,5 +1,6 @@
 # Mushroom Stock
 _2h to assemble_
+
 _2h to cook_
 
 **Ingredients** 
@@ -12,7 +13,7 @@ _2h to cook_
 * 1 t dried thyme
 * 2 bay leaves (4 Mediterranean bay leaves)
 
-** Instructions **
+**Instructions**
 
 1. Reconstitute porcini using 2 cups of water. _Soak porcini in boiling water for 20 minutes. Save porcini juices. Chop reconstituted porcini._
 
