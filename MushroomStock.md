@@ -15,7 +15,9 @@
 
 **Instructions**
 
-1. Reconstitute porcini using 2 cups of water. _Soak porcini in boiling water for 20 minutes. Save porcini juices. Chop reconstituted porcini._
+1. Reconstitute porcini using 2 cups of water. 
+
+_Soak porcini in boiling water for 20 minutes. Save porcini juices. Chop reconstituted porcini._
 
 2. In Dutch oven, combine all ingredients.
 
