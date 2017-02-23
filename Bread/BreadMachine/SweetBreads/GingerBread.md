@@ -14,7 +14,8 @@
 * 1 T baking powder
 * 4 oz fresh ginger, shredded
 
-**Instructions**
+###Instructions
+
 1. Assemble ingredients in order (minus ginger) and bake on cake cycle. 
 2. When beep sounds, scrape off the flour from the sides of the pan. Add the ginger. 
 3. Enjoy when finished!
