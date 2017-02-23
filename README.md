@@ -44,8 +44,8 @@ _A free open-source version control system_
 
 > `>` blockquote
 
-*`*`italics`*`*
-**`**`bold`**`**
+* `*` italics `*` *
+** `**` bold `**` **
 
 [Testlink](https://github.com/nanovikov/Recipes/edit/master/README.md)
 
