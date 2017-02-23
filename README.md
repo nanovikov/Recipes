@@ -42,16 +42,13 @@ _A free open-source version control system_
 
 ### ### Third Level Header
 
-> blockquote `>`
+> `>` makes a blockquote
 
-*italics*
-	*italics*
+*italics* by `*italics*`
 
-**bold**
-	**bold**
+**bold** by `**bold**`
 
-~~crossed out~~
-	~~crossed out~~
+~~crossed out~~ by `~~crossed out~~`
 
 [Testlink](https://github.com/nanovikov/Recipes/edit/master/README.md)
 
@@ -74,5 +71,4 @@ is | awesome
 
 
 ## Emojicode
-:joy:
-	:joy:
+:joy: by `:joy:`
