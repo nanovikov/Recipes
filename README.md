@@ -2,10 +2,10 @@
 
 The goal of this repository is to track the evolution of recipes over time.
 
-## Git
+# Git
 _A free open-source version control system_
 
-###Git configuration
+##Git configuration
 
 	git config --global user.name "username"
 	git config --global user.email "myemail@email.com"
@@ -14,26 +14,25 @@ _A free open-source version control system_
 
 	git config --list
 
-**Create a repo on the local server**
-git init
+##Working with a local repo
 
-**Link local repo to github repo**
-git remote add origin URL
-git push origin master
+	mkdir localrepo
+	cd localrepo
+	git init
 
-**Clone github repo to local server**
-git clone URL
+	git remote add origin URL
+	git push origin master
 
-**Proxy**
-git config --global http.proxy http://user:password@proxy.url
-git config --global --unset http.proxy
+##Clone github repo
+	git clone URL
+	git add .
+	git commit -m "message of changes"
+	git pull
+	git push
 
-**Updating local repo**
-git add .
-git commit -m "message"
-
-**Updating remote repo**
-git push
+## Proxy settings
+	git config --global http.proxy http://user:password@proxy.url
+	git config --global --unset http.proxy
 
 # Markdown language
 
@@ -43,22 +42,24 @@ git push
 
 ### ### Third Level Header
 
-> > blockquote
-> continued
-> and continued
+> `>` blockquote
 
-*some emphasis*
-_some other emphasis_
-**more emphasis**
-__italics__
+*`*`italics`*`*
+**`**`bold`**`**
 
 [Testlink](https://github.com/nanovikov/Recipes/edit/master/README.md)
 
-[Testlint][1]
+	[Testlink](https://github.com/nanovikov/Recipes/edit/master/README.md)
 
+[Testlink2][1]
 [1]: https://github.com/nanovikov/Recipes/edit/master/README.md
 
-![alt text](path-to-image)
+	[Testlink2][1]
+	[1]: https://github.com/nanovikov/Recipes/edit/master/README.md
+
+![alt text](cats.png)
+
+	![alt text](cats.png)
 
 
 
