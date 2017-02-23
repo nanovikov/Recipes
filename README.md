@@ -42,7 +42,7 @@ _A free open-source version control system_
 
 ### ### Third Level Header
 
-	Use 'tab' or backticks to show code
+	Use 'tab' or triple backticks to show code
 
 > `>` makes a blockquote
 
@@ -85,12 +85,41 @@ is | awesome
 3. And you have yourself a nested list
   * isn't that
     * very cool?
+4. If you want to add comments
 
-	1. Start the list
-	  1. indent by 2 spaces
-	  2. each time
-	    * then by 2 more spaces
-	2. Then continue with the original list
-	3. And you have yourself a nested list
-	  * isn't that
-	    * very cool?
+ Skip a line and indent once
+
+```
+1. Start the list
+  1. indent by 2 spaces
+  2. each time
+    * then by 2 more spaces
+2. Then continue with the original list
+3. And you have yourself a nested list
+  * isn't that
+    * very cool?
+4. If you want to add comments
+
+ Skip a line and indent once
+```
+
+## Task lists
+
+```
+- [x] task 1
+- [ ] task 2
+- [ ] task 3
+```
+
+## Paragraphs
+
+To type a paragraph  
+Like this  
+Add two spaces  
+At the end of each line
+
+Otherwise your paragraph will look like this: 
+To type a paragraph
+Like this
+Add two spaces
+At the end of each line
