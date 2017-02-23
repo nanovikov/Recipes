@@ -5,16 +5,14 @@ The goal of this repository is to track the evolution of recipes over time.
 ## Git
 _A free open-source version control system_
 
-**Git configuration**
+###Git configuration
 
-git config --global user.name "username"
-git config --global user.email "myemail@email.com"
-git config --global color.ui "auto"
-git config --global core.editor "vim"
+	git config --global user.name "username"
+	git config --global user.email "myemail@email.com"
+	git config --global color.ui "auto"
+	git config --global core.editor "vim"
 
-**Check git configuration**
-
-git config --list
+	git config --list
 
 **Create a repo on the local server**
 git init
@@ -37,9 +35,30 @@ git commit -m "message"
 **Updating remote repo**
 git push
 
-[Test][d1]
+# Markdown language
 
-[d1]: https://github.com/nanovikov/Recipes/edit/master/README.md
+# # First Level Header
+
+## ## Second Level Header
+
+### ### Third Level Header
+
+> > blockquote
+> continued
+> and continued
+
+*some emphasis*
+_some other emphasis_
+**more emphasis**
+__italics__
+
+[Testlink](https://github.com/nanovikov/Recipes/edit/master/README.md)
+
+[Testlint][1]
+
+[1]: https://github.com/nanovikov/Recipes/edit/master/README.md
+
+![alt text](path-to-image)
 
 
 
