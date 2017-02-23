@@ -42,10 +42,16 @@ _A free open-source version control system_
 
 ### ### Third Level Header
 
-> `>` blockquote
+> blockquote `>`
 
-* `*` italics `*` *
-** `**` bold `**` **
+*italics*
+	*italics*
+
+**bold**
+	**bold**
+
+~~crossed out~~
+	~~crossed out~~
 
 [Testlink](https://github.com/nanovikov/Recipes/edit/master/README.md)
 
@@ -61,6 +67,12 @@ _A free open-source version control system_
 
 	![alt text](cats.png)
 
+First Header | Second Header
+-------------|--------------
+my | table
+is | awesome
 
 
- 
+## Emojicode
+:joy:
+	:joy:
