@@ -11,7 +11,7 @@
 * 130 g all-purpose flour
 * 130 g whole wheat flour
 * 130 g cake flour
-* 1 T baking powder
+* 2 t baking soda
 * 4 oz fresh ginger, shredded
 
 ###Instructions
