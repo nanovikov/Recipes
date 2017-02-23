@@ -72,3 +72,14 @@ is | awesome
 
 ## Emojicode
 :joy: by `:joy:`
+
+## Nested lists
+
+1. Start the list
+  1. indent by 2 spaces
+  2. each time
+    * then by 2 more spaces
+2. Then continue with the original list
+3. And you have yourself a nested list
+  * isn't that
+    * very cool?
