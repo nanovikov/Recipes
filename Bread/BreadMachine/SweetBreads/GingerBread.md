@@ -2,7 +2,7 @@
 
 ### Ingredients
 * 2 eggs, lightly beaten
-* 1/2 cup milk
+* 1/2 cup buttermilk
 * 1 cup plain yogurt
 * 1/4 c avocado oil
 * 1/4 t salt
