@@ -85,9 +85,8 @@ is | awesome
 3. And you have yourself a nested list
   * isn't that
     * very cool?
-4. If you want to add comments
-
- Skip a line and indent once
+4. If you want to add comments, add two spaces here
+ And one here. :wink:
 
 ```
 1. Start the list
@@ -98,9 +97,8 @@ is | awesome
 3. And you have yourself a nested list
   * isn't that
     * very cool?
-4. If you want to add comments
-
- Skip a line and indent once
+4. If you want to add comments, add two spaces here  
+ And one here :wink:
 ```
 
 ## Task lists
