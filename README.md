@@ -42,6 +42,8 @@ _A free open-source version control system_
 
 ### ### Third Level Header
 
+	Use 'tab' or backticks to show code
+
 > `>` makes a blockquote
 
 *italics* by `*italics*`
@@ -83,3 +85,12 @@ is | awesome
 3. And you have yourself a nested list
   * isn't that
     * very cool?
+
+	1. Start the list
+	  1. indent by 2 spaces
+	  2. each time
+	    * then by 2 more spaces
+	2. Then continue with the original list
+	3. And you have yourself a nested list
+	  * isn't that
+	    * very cool?
