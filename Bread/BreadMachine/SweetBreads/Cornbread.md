@@ -9,7 +9,7 @@
 * 1/4 t salt
 * 1/2 c (8 T) honey
 * 1/2 t cinnamon
-* 1/2 c yellow cornmeal
+* 80g (1/2 c) yellow cornmeal
 * 130 g all-purpose flour
 * 1 T baking powder
 * _185 g of corn kernels_
